@@ -45,7 +45,7 @@ Ao executar o script .bat, a pasta será mapeada automaticamente para uma letra 
 
 📁 Estrutura do Projeto
 GeradorMapeamentoDePastas/
-├── main.py
+├── index.py
 ├── README.md
 
 🔐 Permissões
